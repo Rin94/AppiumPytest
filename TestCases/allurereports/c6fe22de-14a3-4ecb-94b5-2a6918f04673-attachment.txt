@@ -1,0 +1,9 @@
+[32mINFO    [0m Pages.BasePage:BasePage.py:55 Typing in Element: nameField_XPATH entered the value as: Fernanda
+[32mINFO    [0m Pages.BasePage:BasePage.py:26 Clicking on an Element: letsShopButton_XPATH
+[32mINFO    [0m Pages.BasePage:BasePage.py:69 Getting the text of the Element: headerTxt_XPATH as: Products
+[32mINFO    [0m Pages.BasePage:BasePage.py:55 Typing in Element: nameField_XPATH entered the value as: Fernanda
+[32mINFO    [0m Pages.BasePage:BasePage.py:26 Clicking on an Element: letsShopButton_XPATH
+[32mINFO    [0m Pages.BasePage:BasePage.py:69 Getting the text of the Element: headerTxt_XPATH as: Products
+[32mINFO    [0m Pages.BasePage:BasePage.py:55 Typing in Element: nameField_XPATH entered the value as: Fernanda
+[32mINFO    [0m Pages.BasePage:BasePage.py:26 Clicking on an Element: letsShopButton_XPATH
+[32mINFO    [0m Pages.BasePage:BasePage.py:69 Getting the text of the Element: headerTxt_XPATH as: Products

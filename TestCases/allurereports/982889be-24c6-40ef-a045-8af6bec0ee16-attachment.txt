@@ -1,0 +1,5 @@
+<configparser.ConfigParser object at 0x1022ba5e0>
+Locator:  //android.widget.EditText[@resource-id="com.androidsample.generalstore:id/nameField"]
+<configparser.ConfigParser object at 0x1022ba3d0>
+<configparser.ConfigParser object at 0x1022ba550>
+<configparser.ConfigParser object at 0x1022ba400>

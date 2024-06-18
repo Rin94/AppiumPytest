@@ -1,0 +1,253 @@
+2024-06-17 15:04:31,539 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Jared
+2024-06-17 15:04:49,071 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Sofia
+2024-06-17 15:05:20,254 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Fernanda
+2024-06-17 15:05:35,503 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Karen
+2024-06-17 15:08:46,499 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Jared
+2024-06-17 15:08:54,325 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 15:08:55,770 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 15:09:06,445 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Sofia
+2024-06-17 15:09:28,087 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 15:09:30,109 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 15:09:40,809 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Fernanda
+2024-06-17 15:09:46,592 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 15:10:00,296 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Karen
+2024-06-17 15:10:40,683 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 15:10:42,631 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 15:13:19,623 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Jared
+2024-06-17 15:13:27,201 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 15:13:28,611 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 15:13:37,428 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Sofia
+2024-06-17 15:13:59,224 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 15:14:00,971 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 15:14:09,775 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Fernanda
+2024-06-17 15:14:15,544 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 15:14:16,955 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 15:14:25,610 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Karen
+2024-06-17 15:15:04,854 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 15:15:06,293 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 15:18:28,799 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Jared
+2024-06-17 15:18:36,555 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 15:18:38,133 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 15:18:47,827 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Sofia
+2024-06-17 15:19:10,646 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 15:19:12,146 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 15:19:22,702 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Fernanda
+2024-06-17 15:19:29,060 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 15:19:30,883 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 15:19:41,479 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Karen
+2024-06-17 15:20:21,139 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 15:20:22,600 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 15:50:50,216 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Jared
+2024-06-17 15:50:57,879 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 15:50:59,305 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 15:50:59,348 - BasePage.py:[97] - [INFO] - Getting the Elements of: txtProductName_ID locator
+2024-06-17 15:51:09,244 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Sofia
+2024-06-17 15:51:30,526 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 15:51:31,951 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 15:51:31,990 - BasePage.py:[97] - [INFO] - Getting the Elements of: txtProductName_ID locator
+2024-06-17 15:51:43,314 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Fernanda
+2024-06-17 15:51:49,038 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 15:51:50,467 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 15:51:50,505 - BasePage.py:[97] - [INFO] - Getting the Elements of: txtProductName_ID locator
+2024-06-17 15:51:59,813 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Karen
+2024-06-17 15:52:38,886 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 15:52:40,329 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 15:52:40,369 - BasePage.py:[97] - [INFO] - Getting the Elements of: txtProductName_ID locator
+2024-06-17 15:52:51,018 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Jared
+2024-06-17 15:52:58,624 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 15:53:00,100 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 15:53:00,136 - BasePage.py:[97] - [INFO] - Getting the Elements of: txtProductName_ID locator
+2024-06-17 15:53:09,776 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Sofia
+2024-06-17 15:53:31,036 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 15:53:32,462 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 15:53:32,499 - BasePage.py:[97] - [INFO] - Getting the Elements of: txtProductName_ID locator
+2024-06-17 15:53:41,767 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Fernanda
+2024-06-17 15:53:47,430 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 15:53:48,842 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 15:53:48,884 - BasePage.py:[97] - [INFO] - Getting the Elements of: txtProductName_ID locator
+2024-06-17 15:53:58,270 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Karen
+2024-06-17 15:54:37,689 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 15:54:39,212 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 15:54:39,250 - BasePage.py:[97] - [INFO] - Getting the Elements of: txtProductName_ID locator
+2024-06-17 15:56:05,288 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Jared
+2024-06-17 15:56:12,432 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 15:56:13,849 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 15:56:13,883 - BasePage.py:[97] - [INFO] - Getting the Elements of: txtProductName_ID locator
+2024-06-17 15:58:23,763 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Jared
+2024-06-17 15:58:31,378 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 15:58:32,760 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 15:58:32,798 - BasePage.py:[97] - [INFO] - Getting the Elements of: txtProductName_ID locator
+2024-06-17 15:59:18,196 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Jared
+2024-06-17 15:59:26,421 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 15:59:28,125 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 15:59:28,246 - BasePage.py:[97] - [INFO] - Getting the Elements of: txtProductName_ID locator
+2024-06-17 15:59:28,604 - BasePage.py:[40] - [INFO] - Clicking on an Element: btnAdd2Cart_ID With index: 0
+2024-06-17 15:59:29,245 - BasePage.py:[97] - [INFO] - Getting the Elements of: txtProductName_ID locator
+2024-06-17 16:05:25,782 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Jared
+2024-06-17 16:05:33,425 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 16:05:34,860 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 16:05:34,909 - BasePage.py:[97] - [INFO] - Getting the Elements of: txtProductName_ID locator
+2024-06-17 16:05:35,055 - BasePage.py:[40] - [INFO] - Clicking on an Element: btnAdd2Cart_ID With index: 0
+2024-06-17 16:05:35,691 - BasePage.py:[97] - [INFO] - Getting the Elements of: txtProductName_ID locator
+2024-06-17 16:06:35,298 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Jared
+2024-06-17 16:06:42,881 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 16:06:44,304 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 16:06:59,355 - BasePage.py:[97] - [INFO] - Getting the Elements of: txtProductName_ID locator
+2024-06-17 16:07:14,495 - BasePage.py:[97] - [INFO] - Getting the Elements of: txtProductName_ID locator
+2024-06-17 16:07:37,940 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Jared
+2024-06-17 16:07:45,601 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 16:07:46,996 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 16:08:02,056 - BasePage.py:[97] - [INFO] - Getting the Elements of: txtProductName_ID locator
+2024-06-17 16:08:17,205 - BasePage.py:[97] - [INFO] - Getting the Elements of: txtProductName_ID locator
+2024-06-17 16:09:18,103 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Jared
+2024-06-17 16:09:25,677 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 16:10:38,983 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Jared
+2024-06-17 16:10:46,595 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 16:10:48,035 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 16:11:53,313 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Jared
+2024-06-17 16:12:01,566 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 16:12:02,990 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 16:12:18,064 - BasePage.py:[97] - [INFO] - Getting the Elements of: txtProductName_ACCESSIBILITYID locator
+2024-06-17 16:12:33,171 - BasePage.py:[97] - [INFO] - Getting the Elements of: txtProductName_ACCESSIBILITYID locator
+2024-06-17 16:14:33,118 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Jared
+2024-06-17 16:14:40,766 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 16:14:42,195 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 16:14:57,264 - BasePage.py:[97] - [INFO] - Getting the Elements of: txtProductName_ACCESSIBILITYID locator
+2024-06-17 16:15:12,443 - BasePage.py:[97] - [INFO] - Getting the Elements of: txtProductName_ACCESSIBILITYID locator
+2024-06-17 16:15:50,037 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Jared
+2024-06-17 16:15:57,691 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 16:15:59,118 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 16:17:00,221 - BasePage.py:[97] - [INFO] - Getting the Elements of: txtProductName_ACCESSIBILITYID locator
+2024-06-17 16:19:43,502 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Jared
+2024-06-17 16:19:51,177 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 16:19:52,601 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 16:22:32,507 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Jared
+2024-06-17 16:22:40,153 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 16:22:41,547 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 16:22:41,607 - BasePage.py:[97] - [INFO] - Getting the Elements of: txtProductName_ID locator
+2024-06-17 16:22:56,791 - BasePage.py:[40] - [INFO] - Clicking on an Element: btnAdd2Cart_ID With index: 0
+2024-06-17 16:26:52,852 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Jared
+2024-06-17 16:27:00,872 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 16:27:02,319 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 16:27:02,374 - BasePage.py:[97] - [INFO] - Getting the Elements of: txtProductName_ID locator
+2024-06-17 16:28:54,982 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Jared
+2024-06-17 16:29:02,675 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 16:29:04,104 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 16:29:04,162 - BasePage.py:[97] - [INFO] - Getting the Elements of: txtProductName_ID locator
+2024-06-17 16:31:15,628 - BasePage.py:[40] - [INFO] - Clicking on an Element: btnAdd2Cart_ID With index: 0
+2024-06-17 16:32:25,937 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Jared
+2024-06-17 16:32:33,549 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 16:32:34,980 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 16:32:35,029 - BasePage.py:[97] - [INFO] - Getting the Elements of: txtProductName_ID locator
+2024-06-17 16:32:35,175 - BasePage.py:[40] - [INFO] - Clicking on an Element: btnAdd2Cart_ID With index: 0
+2024-06-17 16:34:53,229 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Jared
+2024-06-17 16:35:00,893 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 16:35:02,341 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 16:35:02,402 - BasePage.py:[97] - [INFO] - Getting the Elements of: txtProductName_ID locator
+2024-06-17 16:35:59,461 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Jared
+2024-06-17 16:36:07,437 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 16:36:09,133 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 16:36:14,278 - BasePage.py:[97] - [INFO] - Getting the Elements of: txtProductName_ID locator
+2024-06-17 16:37:42,479 - BasePage.py:[40] - [INFO] - Clicking on an Element: btnAdd2Cart_ID With index: 1
+2024-06-17 16:38:13,230 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Jared
+2024-06-17 16:38:20,873 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 16:38:22,330 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 16:38:27,470 - BasePage.py:[97] - [INFO] - Getting the Elements of: txtProductName_ID locator
+2024-06-17 16:38:27,535 - BasePage.py:[40] - [INFO] - Clicking on an Element: btnAdd2Cart_ID With index: 1
+2024-06-17 16:42:22,608 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Jared
+2024-06-17 16:42:30,507 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 16:42:31,914 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 16:42:37,001 - BasePage.py:[97] - [INFO] - Getting the Elements of: txtProductName_ID locator
+2024-06-17 16:42:37,066 - BasePage.py:[40] - [INFO] - Clicking on an Element: btnAdd2Cart_ID With index: 1
+2024-06-17 16:43:09,774 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Jared
+2024-06-17 16:43:17,335 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 16:43:18,778 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 16:43:23,768 - BasePage.py:[97] - [INFO] - Getting the Elements of: txtProductName_ID locator
+2024-06-17 16:43:23,829 - BasePage.py:[40] - [INFO] - Clicking on an Element: btnAdd2Cart_ID With index: 1
+2024-06-17 16:44:00,814 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Jared
+2024-06-17 16:44:08,438 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 16:44:09,843 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 16:44:09,995 - BasePage.py:[97] - [INFO] - Getting the Elements of: txtProductName_ID locator
+2024-06-17 16:44:10,054 - BasePage.py:[40] - [INFO] - Clicking on an Element: btnAdd2Cart_ID With index: 0
+2024-06-17 16:44:15,716 - BasePage.py:[97] - [INFO] - Getting the Elements of: txtProductName_ID locator
+2024-06-17 16:44:15,781 - BasePage.py:[40] - [INFO] - Clicking on an Element: btnAdd2Cart_ID With index: 1
+2024-06-17 16:45:19,009 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Jared
+2024-06-17 16:45:26,697 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 16:45:28,102 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 16:45:28,242 - BasePage.py:[97] - [INFO] - Getting the Elements of: txtProductName_ID locator
+2024-06-17 16:45:28,296 - BasePage.py:[40] - [INFO] - Clicking on an Element: btnAdd2Cart_ID With index: 0
+2024-06-17 16:45:34,110 - BasePage.py:[97] - [INFO] - Getting the Elements of: txtProductName_ID locator
+2024-06-17 16:45:34,171 - BasePage.py:[40] - [INFO] - Clicking on an Element: btnAdd2Cart_ID With index: 1
+2024-06-17 16:45:58,558 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Jared
+2024-06-17 16:46:06,254 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 16:46:07,669 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 16:46:16,555 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Sofia
+2024-06-17 16:46:37,912 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 16:46:39,366 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 16:46:48,493 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Fernanda
+2024-06-17 16:46:54,365 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 16:46:55,773 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 16:47:05,701 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Karen
+2024-06-17 16:47:44,540 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 16:47:45,951 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 17:04:51,040 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Jared
+2024-06-17 17:04:58,712 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 17:05:00,676 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 17:05:00,850 - BasePage.py:[97] - [INFO] - Getting the Elements of: txtProductName_ID locator
+2024-06-17 17:05:00,903 - BasePage.py:[40] - [INFO] - Clicking on an Element: btnAdd2Cart_ID With index: 0
+2024-06-17 17:05:06,500 - BasePage.py:[97] - [INFO] - Getting the Elements of: txtProductName_ID locator
+2024-06-17 17:05:06,564 - BasePage.py:[40] - [INFO] - Clicking on an Element: btnAdd2Cart_ID With index: 1
+2024-06-17 17:05:30,493 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Jared
+2024-06-17 17:05:38,166 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 17:05:39,566 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 17:05:48,768 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Jared
+2024-06-17 17:05:56,464 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 17:05:57,888 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 17:06:08,624 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Jared
+2024-06-17 17:06:16,404 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 17:06:17,845 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 17:06:30,042 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Sofia
+2024-06-17 17:06:51,892 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 17:07:05,449 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Sofia
+2024-06-17 17:07:26,787 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 17:07:28,226 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 17:07:38,618 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Sofia
+2024-06-17 17:07:59,945 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 17:08:01,421 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 17:08:13,663 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Fernanda
+2024-06-17 17:08:19,476 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 17:08:20,919 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 17:08:31,647 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Fernanda
+2024-06-17 17:08:37,327 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 17:08:38,746 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 17:08:48,264 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Fernanda
+2024-06-17 17:08:54,006 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 17:08:55,431 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 17:09:04,736 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Karen
+2024-06-17 17:09:43,782 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 17:09:45,358 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 17:09:55,829 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Karen
+2024-06-17 17:10:35,047 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 17:10:36,478 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 17:10:46,111 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Karen
+2024-06-17 17:11:24,945 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 17:11:26,364 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 17:11:48,980 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Jared
+2024-06-17 17:11:56,680 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 17:11:58,092 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 17:11:58,235 - BasePage.py:[97] - [INFO] - Getting the Elements of: txtProductName_ID locator
+2024-06-17 17:11:58,284 - BasePage.py:[40] - [INFO] - Clicking on an Element: btnAdd2Cart_ID With index: 0
+2024-06-17 17:12:04,064 - BasePage.py:[97] - [INFO] - Getting the Elements of: txtProductName_ID locator
+2024-06-17 17:12:04,132 - BasePage.py:[40] - [INFO] - Clicking on an Element: btnAdd2Cart_ID With index: 1
+2024-06-17 17:12:28,434 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Jared
+2024-06-17 17:12:36,574 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 17:12:37,972 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 17:12:46,656 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Sofia
+2024-06-17 17:13:07,890 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 17:13:09,299 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 17:13:18,329 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Fernanda
+2024-06-17 17:13:24,036 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 17:13:25,423 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
+2024-06-17 17:13:34,212 - BasePage.py:[55] - [INFO] - Typing in Element: nameField_XPATH entered the value as: Karen
+2024-06-17 17:14:13,198 - BasePage.py:[26] - [INFO] - Clicking on an Element: letsShopButton_XPATH
+2024-06-17 17:14:14,631 - BasePage.py:[69] - [INFO] - Getting the text of the Element: headerTxt_XPATH as: Products
